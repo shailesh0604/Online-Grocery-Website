@@ -1,0 +1,31 @@
+#home{
+    height: 208px;
+    padding: 3px 67px;
+
+}
+
+#home::before{
+    height: 375px;
+    
+}
+#home p{
+    font-size: 34px;
+}
+
+
+#service{
+    flex-direction: column;
+}
+
+#client{
+    overflow: hidden;
+
+}
+
+#navbar{
+    flex-direction: column;
+}
+
+.h-primary{
+    font-size: 26px;
+}
